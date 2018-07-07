@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,25 +13,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/estilo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="199">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\!doctype html\&gt;\n\&lt;html\&gt;\n\&lt;head\&gt;\n\&lt;title\&gt;Somnus Store\&lt;\/title\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;css\/estilo\.css\&quot;\&gt;\n\&lt;meta name\=\&quot;keywords\&quot; content\=\&quot;ilustraciones\,dibujo\,diseño\,manualidades\,arte\,manga\,cultura\,fotografia\&quot; \/\&gt;\n\&lt;meta name\=\&quot;description\&quot; content\=\&quot;Estudio creativo\, diseñamos\,personalizamos y damos forma a tus sueños\&quot; \/\&gt; \n\&lt;center\&gt;\n\&lt;link rel\=\&quot;shortcut icon\&quot; src\=\&quot;imagenes\/ico\.png\&quot; \/\&gt;\n\n\&lt;right\&gt;\&lt;img src\=\&quot;imagenes\/ajolote\.png\&quot; \nwidth\=\&quot;400px\&quot; \nheight\=\&quot;250px\&quot;\n\&lt;\/right\&gt;\n\&lt;\/head\&gt;\n\n\&lt;center\&gt; \&lt;div class\=\&quot;n\&quot;\&gt;\&lt;p\&gt;\&lt;b\&gt;\&lt;font color\=\&quot;\#581845\&quot; face\=\&quot;gustado\&quot; size\=\&quot;6\&quot;\&gt;\&lt;marquee scrollamount\=\&quot;5\&quot; \	bgcolor\=\&quot;\#7CFCD9\&quot;  behavior\=\&quot;alternate\&quot; \&gt;\~LE DAMOS FORMA A TUS SUEÑOS\~\&lt;\/marquee\&gt; \&lt;\/font\&gt;\&lt;\/b\&gt;\&lt;\/p\&gt;\&lt;center\&gt;\n\n\&lt;body style\=\&quot;background\-color\:\#81F7F3\;\&quot;\&gt;\n\n\&lt;div id\=\&quot;header\&quot;\&gt;\n\&lt;ul class\=\&quot;nav\&quot;\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;quien es Corax\?\&lt;\/a\&gt;\n\&lt;ul\&gt;\n\&lt;left\&gt;\n\&lt;p align\:\&gt;\n\&lt;font color\=\&quot;orange\&quot;\&gt;\n\&lt;i\&gt;Soy Ilustradora y licenciada en Artes Plasticas de la UPTC de Tunja\, \ndesde niña me ha gustado el arte y las manualidades\, \nhe trabajado como Tallerista y Voluntaria \nen varios eventos y grupos de cultura de la ciudad\,\nme gusta la musica\, los sueños\, y las cosas raras\,\naqui presentamos ilustraciones y productos diseñados especialmente para el proyecto\ndel Estudio Creativo\.\&lt;\/i\&gt;\n\&lt;\/font color\&gt;\n\&lt;\/left\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Redes\&lt;\/a\&gt;\n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.google\.com\&quot;\&gt;Google\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.facebook\.com\&quot;\&gt;Facebook\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.deviantart\.com\&quot;\&gt;Deviantart\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.Deviantart\.com\/\&quot;\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n\&lt;\/ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Correo\&lt;\/a\&gt;\n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.hotmail\.com\&quot;\&gt;hotmail\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;submenu2\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;submenu3\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;submenu4\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;productos\&lt;\/a\&gt; \n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;manualidades\&quot;\&gt;\&quot;Manualidades\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;ilustraciones\&quot;\&gt;\&quot;ilustraciones\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;mercancia\&quot;\&gt;\&quot;diseños\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;contacto\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/div\&gt;\n\n\&lt;div\&gt;\n\&lt;p\&gt; \&lt;br\&gt;\n\&lt;\/p\&gt;\n\&lt;\/div\&gt;\n\n\&lt;p id\=\&quot;p1\&quot;\&gt;un puto texto\!\&lt;\/p\&gt;\n\&lt;button type\=\&quot;button\&quot; class\=\&quot;boton\&quot;\nonclick\=\&quot;document\.getElementById\(\'p1\'\)\.innerHTML \= \'que cambia a otro puto texto\'\&quot;\&gt;\nPulsame\!\&lt;\/button\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,8 +38,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/estilo.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -114,9 +113,10 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -124,7 +124,6 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -141,17 +140,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="64">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/estilo.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        <state relative-caret-position="199">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
         </state>
       </provider>
     </entry>

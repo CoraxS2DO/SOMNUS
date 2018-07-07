@@ -1,0 +1,42 @@
+.{
+	margin: 5px;
+	padding: 3px;
+}
+#header{
+	text-align: center;
+	align-content: center;
+	font-family:  Helvetica, arial, sans-serif;
+}
+ul{
+	list-style:amharic;
+}
+.nav> li{
+	float: left;
+}
+.nav li a{
+	background-color: #25ED58;
+	color: black;
+	text-decoration:none;
+	padding: 15px 25px;
+	display:inline-flex;
+}
+.nav li a:hover{
+	background-color:#DAF7A6
+}
+.nav li ul{
+	display: none;
+	position: absolute;
+	min-width: 140px;
+		
+}
+.nav li:hover> ul{
+	display: block;
+}
+.nav li ul li{
+	position: relative;
+}
+
+.nav li ul li ul{
+	right: -140px;
+		top: 0px;
+}

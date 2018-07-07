@@ -1,0 +1,26 @@
+body{
+	background-color:#D358F7; 
+}
+input{
+	background-color: grey;
+	border: 5px solid green;
+	color: purple;
+	padding: 7px;
+	border-radius: 30px;
+	
+}
+	input[type]=text]{ 
+	padding: 10px;
+	border-radius: 20px;
+	border: 4px double blue;
+	background-color: purple;
+	color: white;
+	font-family: arial;
+}
+input[type=password];focus{
+	background-color: yellow;
+	border-color:
+}
+	
+	
+

@@ -1,39 +1,88 @@
 <!doctype html>
+
 <html>
 	<head>
 		<title>Somnus Store</title>
 		<link rel="stylesheet" type="text/css" href="css/estilo.css">
 		<meta name="keywords" content="ilustraciones,dibujo,diseño,manualidades,arte,manga,cultura,fotografia" />
 		<meta name="description" content="Estudio creativo, diseñamos,personalizamos y damos forma a tus sueños" />
-		<center>
 			<link rel="shortcut icon" src="imagenes/ico.png" />
-
-			<right><img src="imagenes/ajolote.png"
+			<center> <right><img src="imagenes/ajolote.png"
 				width="400px"
-				height="250px"
-			</right>
+				height="250px">
+			</right></center>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	</head>
 
-	<center> <div class="n"><p><b><font color="#581845" face="gustado" size="6"><marquee scrollamount="5" 	bgcolor="#7CFCD9"  behavior="alternate" >~LE DAMOS FORMA A TUS SUEÑOS~</marquee> </font></b></p><center>
+	<center>
+		<div class="n">
+			<p class="marquee"><b><font color="#581845" face="gustado" size="6">
+				<marquee scrollamount="5" 	bgcolor="#7CFCD9"  behavior="alternate" >~LE DAMOS FORMA A TUS SUEÑOS~</marquee>
+			</font></b></p>
+		</div>
+	<center>
 
-	<body style="background-color:#81F7F3;">
+
+
+
+	<body style="background-color:#81F7F3;"
+		  onload="document.getElementById('galeria').style.visibility = 'hidden';
+			document.getElementById('p1').style.visibility = 'hidden';
+			document.getElementById('redes').style.visibility = 'hidden';">
+
+
+
 			<button type="button" class="boton"
-			onclick="document.getElementById('p1').innerHTML =
-			'Soy Ilustradora y licenciada en Artes Plasticas de la UPTC de Tunja, desde niña me ha gustado el arte y las manualidades, he trabajado como Tallerista y Voluntaria en varios eventos y grupos de cultura de la ciudad, me gusta la musica, los sueños, y las cosas raras, aqui presentamos ilustraciones y productos diseñados especialmente para el proyecto del Estudio Creativo.'">
+			onclick="
+			document.getElementById('p1').innerHTML ='Soy Ilustradora y licenciada en Artes Plasticas de la UPTC de Tunja, desde niña me ha gustado el arte y las manualidades, he trabajado como Tallerista y Voluntaria en varios eventos y grupos de cultura de la ciudad, me gusta la musica, los sueños, y las cosas raras, aqui presentamos ilustraciones y productos diseñados especialmente para el proyecto del Estudio Creativo.'
+			document.getElementById('redes').style.visibility = 'hidden';
+			document.getElementById('galeria').style.visibility = 'hidden';
+			document.getElementById('p1').style.visibility = 'visible';
+			">
 			quien es Corax?</button>
 
 			<button type="button" class="boton"
-			onclick="document.getElementById('p1').innerHTML = 'que cambia a otro puto texto'">
-			Pulsame!</button>
+			onclick="
+			document.getElementById('p1').innerHTML ='';
+			document.getElementById('redes').style.visibility = 'visible';
+			document.getElementById('p1').style.visibility = 'hidden';
+			document.getElementById('galeria').style.visibility = 'hidden';
+			">
+			Redes y contacto</button>
+
 
 			<button type="button" class="boton"
-			onclick="document.getElementById('p1').innerHTML = 'que cambia a otro puto texto'">
-			Pulsame!</button>
+			onclick="
+			document.getElementById('p1').innerHTML ='';
+			document.getElementById('galeria').style.visibility = 'visible';
+			document.getElementById('p1').style.visibility = 'hidden';
+			document.getElementById('redes').style.visibility = 'hidden';
+			">
+			Productos!</button>
 
-			<button type="button" class="boton"
-			onclick="document.getElementById('p1').innerHTML = 'que cambia a otro puto texto'">
-			Pulsame!</button>
 
-			<p id="p1" > texto </p>
+				<font face=”Arial”>
+					<font color="orange">
+						<strong>
+							<font size="5">
+								<p id="p1"  > jhbajnasjwjsanksnd </p>
+							</font>
+						</strong>
+					</font>
+				</font>
+
+		<div id="redes">
+
+			<a href="http://www.google.com">Google</a>
+			<a href="http://www.facebook.com">Facebook</a>
+			<a href="http://www.deviantart.com">Deviantart</a>
+			<a href="#">Contacto</a>
+		</div>
+
+	<div id="galeria" >
+		<a href="manualidades">Manualidades</a>
+		<a href="ilustraciones">ilustraciones</a>
+		<a href="mercancia">diseños</a>
+	</div>
 	</body>
 </html>

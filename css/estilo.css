@@ -48,3 +48,13 @@ ul{
 	padding: 15px 25px;
 	display:inline-flex;
 }
+
+.formato{
+    font-family:  Helvetica, arial, sans-serif;
+    font-size: 15px;
+}
+
+.marquee{
+    margin-left:150px;
+    margin-right:150px;
+}

@@ -8,14 +8,14 @@
 		<meta name="description" content="Estudio creativo, diseñamos,personalizamos y damos forma a tus sueños" />
 			<link rel="shortcut icon" src="imagenes/ico.png" />
 			<center> <right><img src="imagenes/ajolote.png"
-				width="400px"
-				height="250px">
+				width="300px"
+				height="200px">
 			</right></center>
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	</head>
 
 	<center>
-		<div class="n">
+		<div class="n" >
 			<p class="marquee"><b><font color="#581845" face="gustado" size="6">
 				<marquee scrollamount="5" 	bgcolor="#7CFCD9"  behavior="alternate" >~LE DAMOS FORMA A TUS SUEÑOS~</marquee>
 			</font></b></p>
@@ -28,35 +28,67 @@
 	<body style="background-color:#81F7F3;"
 		  onload="document.getElementById('galeria').style.visibility = 'hidden';
 			document.getElementById('p1').style.visibility = 'hidden';
-			document.getElementById('redes').style.visibility = 'hidden';">
+			document.getElementById('redes').style.visibility = 'hidden';
+			document.getElementById('redes').style.width = '0px';
+			document.getElementById('redes').style.height = '0px';
+			document.getElementById('p1').style.width = '0px';
+			document.getElementById('p1').style.height = '0px';
+			document.getElementById('galeria').style.width = '0px';
+			document.getElementById('galeria').style.height = '0px';
+	">
 
 
 
 			<button type="button" class="boton"
 			onclick="
-			document.getElementById('p1').innerHTML ='Soy Ilustradora y licenciada en Artes Plasticas de la UPTC de Tunja, desde niña me ha gustado el arte y las manualidades, he trabajado como Tallerista y Voluntaria en varios eventos y grupos de cultura de la ciudad, me gusta la musica, los sueños, y las cosas raras, aqui presentamos ilustraciones y productos diseñados especialmente para el proyecto del Estudio Creativo.'
+
+
 			document.getElementById('redes').style.visibility = 'hidden';
+			document.getElementById('redes').style.width = '0px';
+			document.getElementById('redes').style.height = '0px';
+
 			document.getElementById('galeria').style.visibility = 'hidden';
+			document.getElementById('galeria').style.width = '0px';
+			document.getElementById('galeria').style.height = '0px';
+
 			document.getElementById('p1').style.visibility = 'visible';
+			document.getElementById('p1').style.width = 'auto';
+			document.getElementById('p1').style.height = 'auto';
+
 			">
 			quien es Corax?</button>
 
 			<button type="button" class="boton"
 			onclick="
-			document.getElementById('p1').innerHTML ='';
-			document.getElementById('redes').style.visibility = 'visible';
 			document.getElementById('p1').style.visibility = 'hidden';
+			document.getElementById('p1').style.width = '0px';
+			document.getElementById('p1').style.height = '0px';
+
 			document.getElementById('galeria').style.visibility = 'hidden';
+			document.getElementById('galeria').style.width = '0px';
+			document.getElementById('galeria').style.height = '0px';
+
+			document.getElementById('redes').style.visibility = 'visible';
+			document.getElementById('redes').style.width = 'auto';
+			document.getElementById('redes').style.height = 'auto';
 			">
 			Redes y contacto</button>
 
 
 			<button type="button" class="boton"
 			onclick="
-			document.getElementById('p1').innerHTML ='';
-			document.getElementById('galeria').style.visibility = 'visible';
+
 			document.getElementById('p1').style.visibility = 'hidden';
+			document.getElementById('p1').style.width = '0px';
+			document.getElementById('p1').style.height = '0px';
+
 			document.getElementById('redes').style.visibility = 'hidden';
+			document.getElementById('redes').style.width = '0px';
+			document.getElementById('redes').style.height = '0px';
+
+			document.getElementById('galeria').style.visibility = 'visible';
+			document.getElementById('galeria').style.width = 'auto';
+			document.getElementById('galeria').style.height = 'auto';
 			">
 			Productos!</button>
 
@@ -65,7 +97,13 @@
 					<font color="orange">
 						<strong>
 							<font size="5">
-								<p id="p1"  > jhbajnasjwjsanksnd </p>
+								<p id="p1"  >
+									Soy Ilustradora y licenciada en Artes Plasticas de la UPTC de Tunja, desde niña me
+									ha gustado el arte y las manualidades, he trabajado como Tallerista y Voluntaria en
+									varios eventos y grupos de cultura de la ciudad, me gusta la musica, los sueños, y
+									las cosas raras, aqui presentamos ilustraciones y productos diseñados especialmente
+									para el proyecto del Estudio Creativo.
+								</p>
 							</font>
 						</strong>
 					</font>
@@ -73,18 +111,31 @@
 
 		<div id="redes">
 
-			<a href="http://www.google.com" target="_blank" title="Google + " ><img class="imgmini" src="imagenes/gp.png" alt="Google +" ></a>
-			<a href="http://www.facebook.com" target="_blank" title="Facebook"><img class="imgmini" src="imagenes/fb.png" alt="Facebook"></a>
-			<a href="http://www.deviantart.com" target="_blank" title="Instagram" ><img class="imgmini" src="imagenes/in.png" alt="Instagram"></a>
-			<a href="http://www.deviantart.com" target="_blank" title="Deviantart"><img class="imgmini" src="imagenes/da.png" alt="Deviantart"></a>
+			<a href="https://plus.google.com/114732166509309286782" target="_blank" title="Google + " >
+				<img  src="imagenes/gp.png" alt="Google +" ></a>
+
+			<a href="https://www.facebook.com/SomnusDS/" target="_blank" title="Facebook">
+				<img src="imagenes/fb.png" alt="Facebook"></a>
+
+			<a href="https://www.instagram.com/corax_s2do/" target="_blank" title="Instagram" >
+				<img src="imagenes/in.png" alt="Instagram"></a>
+
+			<a href="https://www.deviantart.com/coraxs2do" target="_blank" title="Deviantart">
+				<img src="imagenes/da.png" alt="Deviantart"></a>
 
 		</div>
 
 	<div id="galeria" >
 		
-		<a href="manualidades" title="Manualidades"><img src="imagenes/ajolote.png" alt="Manualidades" ></a>
-		<a href="ilustraciones" title="Ilustraciones"><img src="imagenes/ajolote.png" alt="Ilustraciones"  ></a>
-		<a href="mercancia" title="Mercancia"><img src="imagenes/ajolote.png" alt="Mercancia" ></a>
+		<a href="manualidades" title="Manualidades">
+			<img src="imagenes/ajolote.png" alt="Manualidades" ></a>
+
+		<a href="ilustraciones" title="Ilustraciones">
+			<img src="imagenes/ajolote.png" alt="Ilustraciones"  ></a>
+
+		<a href="mercancia" title="Mercancia">
+			<img src="imagenes/ajolote.png" alt="Mercancia" ></a>
+
 	</div>
 	</body>
 </html>

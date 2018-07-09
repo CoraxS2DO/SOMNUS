@@ -66,6 +66,13 @@ div img {
     border:1px solid green;
 }
 
+.imgmini {
+    width:200px;
+    height:200px;
+    border-radius:100px;
+    border:1px solid green;
+}
+
 p {
 margin-left:150px;
 margin-right:150px;

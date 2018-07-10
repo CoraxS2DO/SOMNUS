@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/galeria.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/galeria.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria ilustraciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria_ilustraciones.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria_productos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="187">
+              <caret line="133" column="39" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -44,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="galeria_ilustraciones.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="galeria_ilustraciones.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/galeria_ilustraciones.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
@@ -83,10 +79,10 @@
         <option value="$PROJECT_DIR$/sendbymail.php" />
         <option value="$PROJECT_DIR$/contacto.html" />
         <option value="$PROJECT_DIR$/css/estilo.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/galeria.css" />
         <option value="$PROJECT_DIR$/galeria_productos.html" />
         <option value="$PROJECT_DIR$/galeria_ilustraciones.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -112,6 +108,11 @@
               <item name="SOMNUS" type="b2602c69:ProjectViewProjectNode" />
               <item name="SOMNUS" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SOMNUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SOMNUS" type="462c0819:PsiDirectoryNode" />
+              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,13 +274,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/galeria_productos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -298,6 +292,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="133" column="39" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="39" />
         </state>
       </provider>
     </entry>

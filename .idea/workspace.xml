@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/galeria.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/galeria.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria productos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria ilustraciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria_ilustraciones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria_productos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendbymail.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,20 +17,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="140" column="7" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+            <state relative-caret-position="102">
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/estilo.css">
+      <file leaf-file-name="galeria_productos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/galeria_productos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galeria.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/galeria.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galeria_ilustraciones.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/galeria_ilustraciones.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -52,6 +67,7 @@
       <find>\&lt;\!doctype html\&gt;\n\&lt;html\&gt;\n\&lt;head\&gt;\n\&lt;title\&gt;Somnus Store\&lt;\/title\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;css\/estilo\.css\&quot;\&gt;\n\&lt;meta name\=\&quot;keywords\&quot; content\=\&quot;ilustraciones\,dibujo\,diseño\,manualidades\,arte\,manga\,cultura\,fotografia\&quot; \/\&gt;\n\&lt;meta name\=\&quot;description\&quot; content\=\&quot;Estudio creativo\, diseñamos\,personalizamos y damos forma a tus sueños\&quot; \/\&gt; \n\&lt;center\&gt;\n\&lt;link rel\=\&quot;shortcut icon\&quot; src\=\&quot;imagenes\/ico\.png\&quot; \/\&gt;\n\n\&lt;right\&gt;\&lt;img src\=\&quot;imagenes\/ajolote\.png\&quot; \nwidth\=\&quot;400px\&quot; \nheight\=\&quot;250px\&quot;\n\&lt;\/right\&gt;\n\&lt;\/head\&gt;\n\n\&lt;center\&gt; \&lt;div class\=\&quot;n\&quot;\&gt;\&lt;p\&gt;\&lt;b\&gt;\&lt;font color\=\&quot;\#581845\&quot; face\=\&quot;gustado\&quot; size\=\&quot;6\&quot;\&gt;\&lt;marquee scrollamount\=\&quot;5\&quot; \	bgcolor\=\&quot;\#7CFCD9\&quot;  behavior\=\&quot;alternate\&quot; \&gt;\~LE DAMOS FORMA A TUS SUEÑOS\~\&lt;\/marquee\&gt; \&lt;\/font\&gt;\&lt;\/b\&gt;\&lt;\/p\&gt;\&lt;center\&gt;\n\n\&lt;body style\=\&quot;background\-color\:\#81F7F3\;\&quot;\&gt;\n\n\&lt;div id\=\&quot;header\&quot;\&gt;\n\&lt;ul class\=\&quot;nav\&quot;\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;quien es Corax\?\&lt;\/a\&gt;\n\&lt;ul\&gt;\n\&lt;left\&gt;\n\&lt;p align\:\&gt;\n\&lt;font color\=\&quot;orange\&quot;\&gt;\n\&lt;i\&gt;Soy Ilustradora y licenciada en Artes Plasticas de la UPTC de Tunja\, \ndesde niña me ha gustado el arte y las manualidades\, \nhe trabajado como Tallerista y Voluntaria \nen varios eventos y grupos de cultura de la ciudad\,\nme gusta la musica\, los sueños\, y las cosas raras\,\naqui presentamos ilustraciones y productos diseñados especialmente para el proyecto\ndel Estudio Creativo\.\&lt;\/i\&gt;\n\&lt;\/font color\&gt;\n\&lt;\/left\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Redes\&lt;\/a\&gt;\n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.google\.com\&quot;\&gt;Google\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.facebook\.com\&quot;\&gt;Facebook\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.deviantart\.com\&quot;\&gt;Deviantart\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.Deviantart\.com\/\&quot;\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n\&lt;\/ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Correo\&lt;\/a\&gt;\n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;http\:\/\/www\.hotmail\.com\&quot;\&gt;hotmail\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;submenu2\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;submenu3\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;submenu4\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;productos\&lt;\/a\&gt; \n\&lt;ul\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;manualidades\&quot;\&gt;\&quot;Manualidades\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;ilustraciones\&quot;\&gt;\&quot;ilustraciones\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;mercancia\&quot;\&gt;\&quot;diseños\&quot;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/li\&gt;\n\&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;contacto\&lt;\/a\&gt;\&lt;\/li\&gt;\n\&lt;\/ul\&gt;\n\&lt;\/div\&gt;\n\n\&lt;div\&gt;\n\&lt;p\&gt; \&lt;br\&gt;\n\&lt;\/p\&gt;\n\&lt;\/div\&gt;\n\n\&lt;p id\=\&quot;p1\&quot;\&gt;un puto texto\!\&lt;\/p\&gt;\n\&lt;button type\=\&quot;button\&quot; class\=\&quot;boton\&quot;\nonclick\=\&quot;document\.getElementById\(\'p1\'\)\.innerHTML \= \'que cambia a otro puto texto\'\&quot;\&gt;\nPulsame\!\&lt;\/button\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
       <find>mar</find>
       <find>hidden</find>
+      <find>err</find>
       <find>n</find>
     </findStrings>
     <replaceStrings>
@@ -68,6 +84,9 @@
         <option value="$PROJECT_DIR$/contacto.html" />
         <option value="$PROJECT_DIR$/css/estilo.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/galeria.css" />
+        <option value="$PROJECT_DIR$/galeria_productos.html" />
+        <option value="$PROJECT_DIR$/galeria_ilustraciones.html" />
       </list>
     </option>
   </component>
@@ -89,6 +108,11 @@
               <item name="SOMNUS" type="b2602c69:ProjectViewProjectNode" />
               <item name="SOMNUS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SOMNUS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SOMNUS" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,7 +122,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="H:/somnus pagina/galeria.css" />
+    <property name="two.files.diff.last.used.file" value="H:/somnus pagina/galeria.css" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,6 +183,7 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -169,18 +195,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeria_productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/galeria.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendbymail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="2" lean-forward="true" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sendbymail.php" />
     <entry file="file://$PROJECT_DIR$/css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
@@ -216,31 +264,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendbymail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sendbymail.php" />
+    <entry file="file://$PROJECT_DIR$/contacto.html" />
     <entry file="file://$PROJECT_DIR$/css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
+        <state relative-caret-position="1054">
           <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="140" column="7" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeria_productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/galeria.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeria_ilustraciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/estrellamario.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/estrellamario.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/fin.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/fin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/heart.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/heart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/kuroneko.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/kuroneko.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/masterball.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/masterball.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/nihon.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/nihon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/poro.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/poro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenes/trifuerza.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/trifuerza.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -161,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />

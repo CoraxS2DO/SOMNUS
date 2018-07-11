@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/imagenes/estrellamario.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/estrellamario.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/fin.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/fin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/heart.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/heart.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/kuroneko.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/kuroneko.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/masterball.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/masterball.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/nihon.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/nihon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/poro.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/poro.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/trifuerza.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/trifuerza.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

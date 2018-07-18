@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7b56d4-f779-471e-a8f1-1d87fdf3f108" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/galeria.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/galeria.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galeria_productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria_productos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/prusia-nito.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/prusia-nito.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,31 +15,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="galeria_productos.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="galeria_productos.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/galeria_productos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="185" column="107" selection-start-line="185" selection-start-column="107" selection-end-line="185" selection-end-column="107" />
+            <state relative-caret-position="57">
+              <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="galeria.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="qcorax.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qcorax.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galeria.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/galeria.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="93" column="15" selection-start-line="93" selection-start-column="15" selection-end-line="93" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="galeria_ilustraciones.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/galeria_ilustraciones.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-            </state>
-          </provider>
+      <file leaf-file-name="navbar.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/navbar.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -60,6 +63,7 @@
       <find>hidden</find>
       <find>err</find>
       <find>n</find>
+      <find>&quot;des</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -76,8 +80,8 @@
         <option value="$PROJECT_DIR$/css/estilo.css" />
         <option value="$PROJECT_DIR$/galeria_ilustraciones.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/galeria_productos.html" />
         <option value="$PROJECT_DIR$/css/galeria.css" />
+        <option value="$PROJECT_DIR$/galeria_productos.html" />
       </list>
     </option>
   </component>
@@ -104,11 +108,6 @@
               <item name="SOMNUS" type="b2602c69:ProjectViewProjectNode" />
               <item name="SOMNUS" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SOMNUS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOMNUS" type="462c0819:PsiDirectoryNode" />
-              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -324,13 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/galeria_ilustraciones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
@@ -341,17 +333,34 @@
     <entry file="file://$PROJECT_DIR$/imagenes/prusia-nito.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/galeria_productos.html">
+    <entry file="file://$PROJECT_DIR$/galeria_ilustraciones.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="185" column="107" selection-start-line="185" selection-start-column="107" selection-end-line="185" selection-end-column="107" />
+        <state relative-caret-position="17">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/galeria.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="93" column="15" selection-start-line="93" selection-start-column="15" selection-end-line="93" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qcorax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galeria_productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
         </state>
       </provider>
     </entry>

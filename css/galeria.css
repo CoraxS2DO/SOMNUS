@@ -85,6 +85,18 @@ h1 {
 	margin: 0 10px;
 }
 
+.imagen p {
+
+    display: block;
+	width: 400px;
+	margin: 15px;
+	text-align: fixed;
+	color: #fff;
+	padding: 5px;
+	font-size: 25px;
+	text-decoration: none;
+}
+
 .imagen a:nth-child(2) {
 	margin: 0;
 	height: 100%;
@@ -127,16 +139,6 @@ h1 {
 	line-height: 25px;
 }
 
-.des {
-	display: block;
-	width: 400px;
-	margin: 15px;
-	text-align: fixed;
-	text-decoration: none;
-	font-size: 16px;
-	color: #19191;
-	padding: 5px;
-}
 
 table#space {
   border-collapse: separate;

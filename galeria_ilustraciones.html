@@ -3,8 +3,47 @@
 <head>
 	<title>galeriadeilustraciones</title>
 	<link rel="stylesheet" type="text/css" href="css/galeria.css">
+   		<link rel="stylesheet" type="text/css" href="css/navbar.css">
 </head>
+
+
 <body>
+
+<div style="position:fixed; background-color: #333; width: 100%;">
+    <div class="navbar">
+  <a href="index.html">Inicio</a>
+  <a href="inred.html">Redes y contacto</a>
+  <div class="dropdown">
+    <button class="dropbtn" onclick="myFunction()">Productos
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="galeria_ilustraciones.html">Ilustraciones</a>
+      <a href="galeria_productos.html">Mercancia</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
+<br>
+<br>
 <h1 style="color:#C70039;">ILUSTRACIONES</h1>
 <b>
 <font color="#581845"></font>

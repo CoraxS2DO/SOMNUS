@@ -61,9 +61,9 @@ ul{
 }
 
 div img{
-    width:200px;
-    height:200px;
-    border-radius:100px;
+    width:150px;
+    height:150px;
+    border-radius:75px;
     border:1px solid green;
 }
 
